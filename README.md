@@ -1,5 +1,5 @@
 # TUD_Dragonflies_and_Drones
-Repository for thesis research in Aerospace Engineering at TU Delft MAVLab titled 'Hunt like a dragonfly, strike like a drone: leveraging motion camouflage to achieve target interception through liquid neural networks'. 
+Repository for MSc. thesis research in Aerospace Engineering at TU Delft MAVLab titled 'Hunt like a dragonfly, strike like a drone: leveraging motion camouflage to achieve target interception through liquid neural networks'. 
 
 
 
