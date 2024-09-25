@@ -1,4 +1,5 @@
-# TUD_Dragonflies_and_Drones
+# *'Hunt like a Dragonfly, Strike like a Drone'*
+## TUD_Dragonflies_and_Drones
 Repository for MSc. thesis research in Aerospace Engineering at TU Delft titled *'**Hunt like a dragonfly, strike like a drone**: learning pursuit controllers for insect interception through multi-agent deep reinforcement learning for onboard use in autonomous quadcopters'* conducted by R.W. Vos, Dr. M. Yedutenko, Prof. Dr. G.C.H.E. de Croon at Delft University of Technology, Faculty of Aerospace Engineering, Department of Control & Simulation, Micro-Air-Vehicle Laboratory (MAVLab) between November 2023- October 2024.
 
 ## Abstract
