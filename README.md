@@ -7,7 +7,7 @@ Repository for MSc. thesis research in Aerospace Engineering at TU Delft titled 
 
 ## Repository overview
 This repository contains two main folders:
-- *Code*: containing all relevant scripts to setup, optimize and evaluate agents in our pursuit-evasion scenarios using deep reinforcement learning in Pytorch and Ray RLlib. 
+- *Code*: containing all relevant scripts to setup, optimize and evaluate agents in our pursuit-evasion scenarios using deep reinforcement learning in Pytorch and Ray RLlib. This folder also contains a yaml & requirements.txt file to replicate the conda environment. Note that the Pytorch version was chosen to correspond with CUDA 12.1. 
 - *Visualizations*: containing visualized confrontations between our optimized agents and insect recordings across a selection of system configurations. Files are made with plotly and are of HTML format, downloading is required for proper viewing.
 
 ### Visualizations
