@@ -11,7 +11,7 @@ This repository contains two main folders:
 - *Visualizations*: containing visualized confrontations between our optimized agents and insect recordings across a selection of system configurations. Files are made with plotly and are of HTML format, downloading is required for proper viewing.
 
 ### Visualizations
-This repository contains interactive visualizations of 3D trajectories collected from confrontations between our optimized pursuer and evader agents as well as between the optimized pursuer agents and the offline Opogona recordings (provided by PATS[https://www.pats-drones.com/pats-x]). Trajectories are created using Plotly, saved in HTML files and stored in the visualizations folder of this repository. 
+This repository contains interactive visualizations of 3D trajectories collected from confrontations between our optimized pursuer and evader agents as well as between the optimized pursuer agents and the offline Opogona recordings (provided by [PATS](https://www.pats-drones.com/pats-x)). Trajectories are created using Plotly, saved in HTML files and stored in the visualizations folder of this repository. 
 
 Within these files, the pursuer and evader trajectories are blue and red respectively, with a similarly colored sphere indicating their initial position. Orange and green spheres on top of a trajectory highlight that the agent in question is in the motion-camouflage game state. The grey connecting lines define the lines-of-sight between the agents at a periodic interval. The green neon line indicates the shortest distance between agents observed within a trial.  
 
